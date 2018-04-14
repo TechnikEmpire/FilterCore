@@ -1,2 +1,3 @@
-# FilterCore
-Cross platform filtering HTTP/S proxy based on .NET Standard 2.0.
+This project is a hard, unofficial fork of https://github.com/TechnikEmpire/CitadelCore.
+
+Preserved.
